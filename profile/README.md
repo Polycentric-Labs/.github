@@ -37,6 +37,9 @@ A decision-matrix skill and classifier that picks the right web-research method 
 **[pre-release-review](https://github.com/Polycentric-Labs/pre-release-review)** — *a methodical, user-in-the-loop pre-tag review.*
 A portable release-gate skill aligned to SLSA L3, OpenSSF Best Practices, and the OSPS Baseline — the checklist that stands between &ldquo;it builds&rdquo; and &ldquo;it ships.&rdquo;
 
+**[Voidseal](https://github.com/Polycentric-Labs/voidseal)** — *untrusted code runs behind a sealed door or not at all.*
+A risk-tiered Hyper-V sandbox provisioner: inject a workload, seal the VM to the isolation tier it demands — network-restricted to fully air-gapped — behind a fail-closed, host-verified gate, capture results across a one-way boundary, and tear it down. For agent loops, unvetted plugins, and code you'd rather not trust. *MIT.*
+
 ## How we work
 
 - **Open by default.** Apache-2.0 and MIT. Read the code, fork it, build on it.
