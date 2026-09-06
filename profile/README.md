@@ -55,4 +55,4 @@ We build in the open, and we're looking for developers who care about correctnes
 
 ---
 
-<sub>This organization's projects are developed alongside AI platforms. Models used: Claude Opus 4.6, Claude Opus 4.7, Sonar Deep Research.</sub>
+<sub>This organization's projects are developed alongside AI platforms. See the [AI-assistance policy](https://github.com/Polycentric-Labs/.github/blob/main/AI_POLICY.md) and each project's `docs/ai-assistance.md` for the tools in use.</sub>
