@@ -1,6 +1,6 @@
 # AI assistance at Polycentric Labs
 
-Last updated: 2026-09-06.
+Last updated: 2026-09-06. Canonical page: [polycentriclabs.com/ai-policy](https://polycentriclabs.com/ai-policy); this file mirrors it.
 
 Polycentric Labs builds its software with AI tools as assistants. This page says
 what that means in practice, what it excludes, and what we ask of contributors.
